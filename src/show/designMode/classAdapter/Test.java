@@ -12,7 +12,6 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println(a);
-        URI
 //        Targetable target = new Adapter();
 //        target.method1();
 //        target.method2();
